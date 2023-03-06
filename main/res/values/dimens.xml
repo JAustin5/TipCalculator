@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginETHeight">55dp</dimen>
+    <dimen name="marginETWidth">300dp</dimen>
+    <dimen name="tablePos">10dp</dimen>
+</resources>
